@@ -1,0 +1,1 @@
+Please note that that's the template of the report, in order to refresh the data open the file and connect to your databricks cluster. If you would like to receive the original file please send me an email.

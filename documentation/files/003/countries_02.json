@@ -1,0 +1,317 @@
+[{
+        "Code": "GF",
+        "Name": "French Guiana"
+    },
+    {
+        "Code": "PF",
+        "Name": "French Polynesia"
+    },
+    {
+        "Code": "TF",
+        "Name": "French Southern Territories"
+    },
+    {
+        "Code": "GA",
+        "Name": "Gabon"
+    },
+    {
+        "Code": "GM",
+        "Name": "Gambia"
+    },
+    {
+        "Code": "GE",
+        "Name": "Georgia"
+    },
+    {
+        "Code": "DE",
+        "Name": "Germany"
+    },
+    {
+        "Code": "GH",
+        "Name": "Ghana"
+    },
+    {
+        "Code": "GI",
+        "Name": "Gibraltar"
+    },
+    {
+        "Code": "GR",
+        "Name": "Greece"
+    },
+    {
+        "Code": "GL",
+        "Name": "Greenland"
+    },
+    {
+        "Code": "GD",
+        "Name": "Grenada"
+    },
+    {
+        "Code": "GP",
+        "Name": "Guadeloupe"
+    },
+    {
+        "Code": "GU",
+        "Name": "Guam"
+    },
+    {
+        "Code": "GT",
+        "Name": "Guatemala"
+    },
+    {
+        "Code": "GG",
+        "Name": "Guernsey"
+    },
+    {
+        "Code": "GN",
+        "Name": "Guinea"
+    },
+    {
+        "Code": "GW",
+        "Name": "Guinea-Bissau"
+    },
+    {
+        "Code": "GY",
+        "Name": "Guyana"
+    },
+    {
+        "Code": "HT",
+        "Name": "Haiti"
+    },
+    {
+        "Code": "HM",
+        "Name": "Heard Island and McDonald Islands"
+    },
+    {
+        "Code": "VA",
+        "Name": "Holy See (Vatican City State)"
+    },
+    {
+        "Code": "HN",
+        "Name": "Honduras"
+    },
+    {
+        "Code": "HK",
+        "Name": "Hong Kong"
+    },
+    {
+        "Code": "HU",
+        "Name": "Hungary"
+    },
+    {
+        "Code": "IS",
+        "Name": "Iceland"
+    },
+    {
+        "Code": "IN",
+        "Name": "India"
+    },
+    {
+        "Code": "ID",
+        "Name": "Indonesia"
+    },
+    {
+        "Code": "IR",
+        "Name": "Iran, Islamic Republic of"
+    },
+    {
+        "Code": "IQ",
+        "Name": "Iraq"
+    },
+    {
+        "Code": "IE",
+        "Name": "Ireland"
+    },
+    {
+        "Code": "IM",
+        "Name": "Isle of Man"
+    },
+    {
+        "Code": "IL",
+        "Name": "Israel"
+    },
+    {
+        "Code": "IT",
+        "Name": "Italy"
+    },
+    {
+        "Code": "JM",
+        "Name": "Jamaica"
+    },
+    {
+        "Code": "JP",
+        "Name": "Japan"
+    },
+    {
+        "Code": "JE",
+        "Name": "Jersey"
+    },
+    {
+        "Code": "JO",
+        "Name": "Jordan"
+    },
+    {
+        "Code": "KZ",
+        "Name": "Kazakhstan"
+    },
+    {
+        "Code": "KE",
+        "Name": "Kenya"
+    },
+    {
+        "Code": "KI",
+        "Name": "Kiribati"
+    },
+    {
+        "Code": "KP",
+        "Name": "Korea, Democratic People's Republic of"
+    },
+    {
+        "Code": "KR",
+        "Name": "Korea, Republic of"
+    },
+    {
+        "Code": "KW",
+        "Name": "Kuwait"
+    },
+    {
+        "Code": "KG",
+        "Name": "Kyrgyzstan"
+    },
+    {
+        "Code": "LA",
+        "Name": "Lao People's Democratic Republic"
+    },
+    {
+        "Code": "LV",
+        "Name": "Latvia"
+    },
+    {
+        "Code": "LB",
+        "Name": "Lebanon"
+    },
+    {
+        "Code": "LS",
+        "Name": "Lesotho"
+    },
+    {
+        "Code": "LR",
+        "Name": "Liberia"
+    },
+    {
+        "Code": "LY",
+        "Name": "Libya"
+    },
+    {
+        "Code": "LI",
+        "Name": "Liechtenstein"
+    },
+    {
+        "Code": "LT",
+        "Name": "Lithuania"
+    },
+    {
+        "Code": "LU",
+        "Name": "Luxembourg"
+    },
+    {
+        "Code": "MO",
+        "Name": "Macao"
+    },
+    {
+        "Code": "MK",
+        "Name": "Macedonia, the Former Yugoslav Republic of"
+    },
+    {
+        "Code": "MG",
+        "Name": "Madagascar"
+    },
+    {
+        "Code": "MW",
+        "Name": "Malawi"
+    },
+    {
+        "Code": "MY",
+        "Name": "Malaysia"
+    },
+    {
+        "Code": "MV",
+        "Name": "Maldives"
+    },
+    {
+        "Code": "ML",
+        "Name": "Mali"
+    },
+    {
+        "Code": "MT",
+        "Name": "Malta"
+    },
+    {
+        "Code": "MH",
+        "Name": "Marshall Islands"
+    },
+    {
+        "Code": "MQ",
+        "Name": "Martinique"
+    },
+    {
+        "Code": "MR",
+        "Name": "Mauritania"
+    },
+    {
+        "Code": "MU",
+        "Name": "Mauritius"
+    },
+    {
+        "Code": "YT",
+        "Name": "Mayotte"
+    },
+    {
+        "Code": "MX",
+        "Name": "Mexico"
+    },
+    {
+        "Code": "FM",
+        "Name": "Micronesia, Federated States of"
+    },
+    {
+        "Code": "MD",
+        "Name": "Moldova, Republic of"
+    },
+    {
+        "Code": "MC",
+        "Name": "Monaco"
+    },
+    {
+        "Code": "MN",
+        "Name": "Mongolia"
+    },
+    {
+        "Code": "ME",
+        "Name": "Montenegro"
+    },
+    {
+        "Code": "MS",
+        "Name": "Montserrat"
+    },
+    {
+        "Code": "MA",
+        "Name": "Morocco"
+    },
+    {
+        "Code": "MZ",
+        "Name": "Mozambique"
+    },
+    {
+        "Code": "MM",
+        "Name": "Myanmar"
+    },
+    {
+        "Code": "NA",
+        "Name": "Namibia"
+    },
+    {
+        "Code": "NR",
+        "Name": "Nauru"
+    }
+]

@@ -1,0 +1,9 @@
+# Test - execute command from file
+# VSCode -> Terminal Run Selected Text
+dir
+echo "test"
+
+
+
+
+# if you will follow the demo you can also copy and paste to terminal

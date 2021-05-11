@@ -1,0 +1,62 @@
+# build image using specifed Dockerfile and using the code from given path
+
+docker image build ^
+    -t learnsthnew-getdata ^
+    -f get-data/Dockerfile ^
+    get-data
+
+
+
+
+
+
+
+
+
+
+
+
+# run container using the previously built image
+
+docker container run -d ^
+    --name learnsthnew-getdata-rmf ^
+    learnsthnew-getdata "RMF FM" "15" "2021-05-01"
+
+docker container run -d ^
+    --name learnsthnew-getdata-zet ^
+    learnsthnew-getdata "ZET" "3" "2021-04-01"
+
+
+
+
+
+
+
+
+
+
+
+
+# check logs
+
+docker container logs learnsthnew-getdata-rmf
+
+docker container logs learnsthnew-getdata-zet
+
+# now, let's check the files in the azure data lake
+
+
+
+
+
+
+
+
+
+# clean up, remove containers
+
+docker container rm learnsthnew-getdata-rmf --force
+
+docker container rm learnsthnew-getdata-zet --force
+
+

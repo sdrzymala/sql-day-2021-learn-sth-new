@@ -1,0 +1,71 @@
+# docker pull image from Dockerhub - SQL Server
+docker pull mcr.microsoft.com/mssql/server
+
+
+
+# show docker images
+docker image ls
+
+
+
+# run container from the image from Dockerhub
+docker run ^
+    --name my_sql_server ^
+    -e "ACCEPT_EULA=Y" ^
+    -e "SA_PASSWORD=Pass@word2@" ^
+    -e "MSSQL_PID=Enterprise" ^
+    -e "MSSQL_AGENT_ENABLED=true" ^
+    -p 1434:1433 ^
+    -d ^
+    mcr.microsoft.com/mssql/server
+
+
+
+# check running containers
+docker container ls
+
+
+# test connection to sql server, please note that we need to provide the password
+# start container from bash / cmd / ps
+"C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Ssms.exe" ^
+    -U sa ^
+    -S "localhost, 1434" ^
+    -d master
+
+
+
+
+# remove docker container 
+docker container rm my_sql_server --force
+
+
+
+
+
+
+# pull another image from Dockerhub - Jupyter Notebook
+# start container from wsl2
+docker pull jupyter/scipy-notebook
+
+
+
+
+# run another container from Dockerhub - Jupyter Notebook
+docker container run ^
+     --name my_jupyter_notebook ^
+     -p 8893:8888 ^
+     -d ^
+     -e JUPYTER_TOKEN="let me in" ^
+     -v "%cd%\demo\demo_01\mycode:/home/jovyan/work/mycode" ^
+     jupyter/scipy-notebook
+
+
+
+
+# start container from bash / cmd / ps
+start chrome "http://localhost:8893"
+
+
+# clean up
+# start container from wsl2
+docker container rm my_jupyter_notebook --force
